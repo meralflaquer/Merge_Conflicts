@@ -1,3 +1,3 @@
-# merge_conflicts
+REMOTE
 
 add few lines
